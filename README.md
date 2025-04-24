@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Abdullah Awais
 
-### 🚀 Asp.NET Core | Web API | Asp.NET Developer | BS Software Engineering
+### 🚀 Asp.NET Core | Web API | Asp.NET | BS Software Engineering
 
 I'm a passionate software engineer with over **2 years of hands-on experience** in designing, developing, and maintaining scalable software solutions using .NET technologies. I specialize in building **Web APIs, Web Applications**, and **Desktop Applications** with a strong focus on performance, asynchronous programming, and clean architecture.
 
