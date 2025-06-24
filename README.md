@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Abdullah Awais
 
-### 🚀 Asp.NET Core | Web API | Asp.NET | BS Software Engineering
+### 🚀 Full Stack | Angular | C# | Asp.NET Core | Web API | Asp.NET MVC | BS Software Engineering
 
 I'm a passionate software engineer with over **2 years of hands-on experience** in designing, developing, and maintaining scalable software solutions using .NET technologies. I specialize in building **Web APIs, Web Applications**, and **Desktop Applications** with a strong focus on performance, asynchronous programming, and clean architecture.
 
@@ -8,19 +8,19 @@ I'm a passionate software engineer with over **2 years of hands-on experience** 
 
 ### 🛠️ Technologies & Skills
 - **Languages**: C#, C++, JavaScript, HTML, CSS
-- **Frameworks**: ASP.NET Core, ASP.NET MVC, Web API
+- **Frameworks**: ASP.NET Core, ASP.NET MVC, Web API, Angular
 - **Database**: MS SQL Server
 - **Others**: Ajax, jQuery, Git, SourceTree
-- **Architectures**: N-Tier Architecture, Three-Tier, Three-Layer.
+- **Architectures**: N-Tier Architecture, Three-Tier, Three-Layer, Clean Architecture, Vertical Slice Architecture
 - **Design Patterns**: Repository Design Pattern
 - **Tools**: Atlassian suite (Jira, Confluence), Visual Studio, GitHub
 
 ---
 
-### 👨‍💻 Currently Working At
+### 💼 Past Experience
 **ID-ware**, Islamabad  
 *Junior Software Engineer*  
-`01/2024 - Present`
+`01/2024 - 05/2025`
 
 > Developing ASP.NET Core Web APIs with clean architecture and optimized performance. Implementing logging, exception handling, and collaborating on version control using Git and SourceTree.
 
@@ -39,7 +39,7 @@ I'm a passionate software engineer with over **2 years of hands-on experience** 
 **Bachelor of Science in Software Engineering (BSSE)**  
 **Gomal University**, Dera Ismail Khan  
 *2019 - 2023*  
-**GPA: 3.94**
+**CGPA: 3.94**
 
 ---
 
