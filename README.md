@@ -18,7 +18,7 @@ I'm a passionate software engineer with over **3 years of hands-on experience** 
 ---
 
 ### 💼 Present
-**Wicked Digital Pakistan, Islamabad
+**Wicked Digital Pakistan**, Islamabad
 *Junior Software Engineer*
 `09/2025  -Present`
 
