@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack | Angular | C# | Asp.NET Core | Web API | Asp.NET MVC | BS Software Engineering
 
-I'm a passionate software engineer with over **2 years of hands-on experience** in designing, developing, and maintaining scalable software solutions using .NET technologies. I specialize in building **Web APIs, Web Applications**, and **Desktop Applications** with a strong focus on performance, asynchronous programming, and clean architecture.
+I'm a passionate software engineer with over **3 years of hands-on experience** in designing, developing, and maintaining scalable software solutions using .NET technologies. I specialize in building **Web APIs, Web Applications**, and **Desktop Applications** with a strong focus on performance, asynchronous programming, and clean architecture.
 
 ---
 
@@ -14,6 +14,15 @@ I'm a passionate software engineer with over **2 years of hands-on experience** 
 - **Architectures**: N-Tier Architecture, Three-Tier, Three-Layer, Clean Architecture, Vertical Slice Architecture
 - **Design Patterns**: Repository Design Pattern
 - **Tools**: Atlassian suite (Jira, Confluence), Visual Studio, GitHub
+
+---
+
+### 💼 Present
+**Wicked Digital Pakistan, Islamabad
+*Junior Software Engineer*
+`09/2025  -Present`
+
+>  Developed and maintained RESTful Web APIs using ASP.NETCore to support business functionalities.
 
 ---
 
